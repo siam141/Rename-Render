@@ -11,7 +11,7 @@ API_ID = os.environ.get("API_ID", "27752560")
 
 API_HASH = os.environ.get("API_HASH", "67d3ec64db8031189962b5d4804884c0")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7728598881:AAF3evUl3YJw9dp4wm58Ad0oZu1CbeWgMMo") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7643280737:AAE7GZdssAgjpgMwZ3L6jsQQ6dH3yYWHKMQ") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "movie_channel1") 
 
